@@ -15,6 +15,6 @@
     </div>
     </form>
     <p>
-      Creado por Naldy</p>
+      Creado por Naldy Pérez A.</p>
 </body>
 </html>
